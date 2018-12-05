@@ -224,7 +224,8 @@ open class OverlapActivity: Activity() {
                 }
             }
         } else {
-            rx2Photo.propagateThrowable(CancelOperationException(typeRequest))
+//            rx2Photo.propagateThrowable(CancelOperationException(typeRequest))
+            rx2Photo.onActivityResult(null)
             removeUnusedFile()
         }
 
