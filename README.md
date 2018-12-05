@@ -164,7 +164,8 @@ Gmail: [hazuki21@naver.com](hazuki21@naver.com)
 
 [RxAndroid](https://github.com/ReactiveX/RxAndroid)
 
-#License
+
+## License
 ```
 The MIT License (MIT)
 
@@ -188,3 +189,27 @@ ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEAL
 
 ```
 
+## OSS Notice || RxPhoto
+```
+This opensource library is Copyright(c) 2018 hasys corp. All rights reserved.
+
+The following  sets forth attribution notices for third party software that may be contained in this opensource library.
+If you have any questions or concerns, please contact us at purple@kakaocorp.com
+
+=====================================================================================================================
+
+RxJava
+https://github.com/ReactiveX/RxJava
+Copyright 2016-present, RxJava Contributors.
+Apache License 2.0
+
+RxAndroid
+https://github.com/ReactiveX/RxAndroid
+Copyright 2015 The RxAndroid authors
+Apache License 2.0
+
+RxPhoto
+https://github.com/oliveiradev/RxPhoto
+Copyright 2016 Felipe Oliveira
+MIT License
+```
