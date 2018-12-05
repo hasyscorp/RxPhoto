@@ -1,6 +1,7 @@
+This project is forked from oliveiradev/RxPhoto.
+
 # Rx2Photo
 [![](https://jitpack.io/v/hasyscorp/RxPhoto.svg)](https://jitpack.io/#hasyscorp/RxPhoto)
-
 
 A simple library for delivery bitmaps using reactive approach.
 
@@ -141,11 +142,15 @@ The sample is on `app` module
 
 ## Developed by 
 
-* Felipe Oliveira
+* Felipe Oliveira  (Origial Developer)
 
 Gmail: [felipe.oliveiradev@gmail.com](felipe.oliveiradev@gmail.com)
 
 [Add me to Linkedin](https://br.linkedin.com/in/felipe-oliveira-03334b5b)
+
+* Kei9327
+
+Gmail: [hazuki21@naver.com](hazuki21@naver.com)
 
 ## Contribuitors
 
@@ -163,7 +168,7 @@ Gmail: [felipe.oliveiradev@gmail.com](felipe.oliveiradev@gmail.com)
 ```
 The MIT License (MIT)
 
-Copyright (c) 2016 Felipe Oliveira
+Copyright (c) 2018 HasysCorp
 
 Permission is hereby granted, free of charge, to any person obtaining a 
 copy of this software and associated documentation files (the "Software"), 
