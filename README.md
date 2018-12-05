@@ -1,6 +1,6 @@
 # Rx2Photo
-[![](https://jitpack.io/v/GeniusRUS/RxPhoto.svg)](https://jitpack.io/#GeniusRUS/RxPhoto)
-[![Android Arsenal](https://img.shields.io/badge/Android%20Arsenal-RxPhoto-green.svg?style=true)](https://android-arsenal.com/details/1/3870)
+[![](https://jitpack.io/v/hasyscorp/RxPhoto.svg)](https://jitpack.io/#hasyscorp/RxPhoto)
+
 
 A simple library for delivery bitmaps using reactive approach.
 
